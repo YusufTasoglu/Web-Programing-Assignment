@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+width: 100%;
+height: 80px;
+background: orange
+
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+    display:inline;
+    margin-top: 20px;
+    
+    
+}
+.navbar .logo{
+display: inline-block;
+margin-left: 40px;
+margin-top: 20px;
+}
+.navbar .logo{
+    text-decoration: none;
+    font-size: 30px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    margin: 10px;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 150px ;
+}
+.button{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+    
+}
+.bir{
+    margin: 30px;
+}
+.iki{
+    margin: 30px;
+}
+.uc{
+    margin: 30px;
+}
+.dort{
+    margin: 30px;
+}
+h1{
+    font-size: 50px;
+}
